@@ -3,7 +3,7 @@ class Main {
 
 public static void main(String... arg) {
     
-        System.out.println("Next version");
+        System.out.println("Next versionnn");
 }
 
 }
