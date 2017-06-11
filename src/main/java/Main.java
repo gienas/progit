@@ -6,5 +6,6 @@ public class Main {
 		System.out.println("hello my world, bug fix, bug fixedd, bug fixed !");
 		System.out.println("Work added in branch iss01");
 		System.out.println("Work added in branch iss02");
+		System.out.println("Work added in branch iss02");
 	}	
 }
